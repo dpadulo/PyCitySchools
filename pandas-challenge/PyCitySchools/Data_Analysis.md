@@ -1,0 +1,5 @@
+{{HEADER: City Schools Data Analysis|}}
+
+- Larger schools have lower Passing Rates. This is almost certainly because it is more difficult for teachers to give students extra help that is more tailored to their specific educational needs.
+
+- The difference in Passing Rates for both Math & Reading between District and Charter schools is extreme (and unexpected) enough to raise eyebrows and warrant further investigation. A discrepancy that large means that one set of students is absolutely not being taught under the same conditions as the other. Do district schools have a lower passing rate because their curriculum is more difficult or are the students not getting the resources and attention they require? Or is it that the less regulated charter schools can relax their criteria so that they can pass more students. If true, that kind of practice would set them up to look like a more “successful” school while their students are actually being underserved? It would be very illuminating to conduct further studies on this discrepancy.
