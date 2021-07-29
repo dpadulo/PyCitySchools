@@ -1,3 +1,5 @@
+![Image of PyCity Schools](https://github.com/dpadulo/PyCitySchools/blob/main/SchoolsGrab.png)
+
 This study uses a Jupyter Notebook to analyze a school district's standardized test results to help the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 That data analyzed was a comprehensive set of every student's math and reading scores, as well as various information on the schools they attend. The goal was to aggregate the data to and showcase obvious trends in school performance.
 The final report includes each of the following:
